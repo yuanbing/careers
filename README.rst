@@ -25,9 +25,9 @@ Votizen is about connecting voters: connecting voters to issues they care about,
 
 Our vision
 ----------
-For the past 50 years, television has dominated the political landscape.  And since television commercials are expensive, campaigns need to raise hundreds of millions of dollars to communicate with voters in order to win office.  Consequently, every attempt to reform our system by reducing the influence of money eventually fails because that's the way that candidates talk to voters.
+For the past 50 years, television has dominated the political landscape.  And since television commercials are expensive, campaigns need to raise hundreds of millions of dollars to communicate with voters in order to get elected.  Consequently, every attempt to reform our system by reducing the influence of money eventually fails because that's the way that candidates talk to voters.
 
-But what would happen if candidates could connect with voters directly?  This is where social media has changed the rules of the game. How effective would a 30-second attack ad be if you had a direct relationship with your officials?  In 2010, one candidate using traditional campaign methods outspent his social media-based opponent by 20-1 -- and lost.  Another prominent California race had a prominent insider raise and spend more than a million dollars, yet still lost to a challenger that raised enough to cover the $3000 filing fee but otherwise used Twitter, Facebook and YouTube to win.  
+But what would happen if candidates could connect with voters directly?  This is where social media has changed the rules of the game. How effective would a 30-second attack ad be if you had a direct relationship with your officials?  In 2010, one candidate using traditional campaign methods outspent his social media-based opponent by 20-1 -- and lost.  Another statewide California race had a prominent insider raise more than a million dollars, yet still lost to a challenger that only spent $3000 to cover the filing fee but otherwise used Twitter, Facebook and YouTube to win.  
 
 Votizen connects real voters to their officials and gives them a way to express themselves that matters.  It's a chance for ordinary people to have an extraordinary impact on the challenges facing our country.  And it's how politics is being redefined in a connected world.
 
@@ -50,7 +50,7 @@ We are looking for backend engineers.  We want persons who have worked on low-le
 
 We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We don't specifically require a CS degree, but this usually is a strong indicator of a person who thinks like an engineer.  A great candidate will have a strong GitHub portfolio with lots of commits, not just lots of forks.  Inflated titles like CTO are not impressive to us; a well-followed blog is.  
 
-Above all, we want A players.  Our standards are very, very high -- inordinately so -- but we are at the very early stages and want high-quality talent that will attract other high-quality talent.
+Above all, we want A players.  Our standards are very, very high but we are at the very early stages and want high-quality talent that will attract other high-quality talent.
 
 What we offer
 =============
@@ -117,12 +117,12 @@ Following is the hiring process we employ.
 
 Source
 ------
-Referrals may enter the workflow at any step depending on the nature of the recommendation.  However, all entries must be tracked through our Applicant Tracking System (ATS) which can be found at http://votizen.jobscore.com.
+Referrals may enter the workflow at any step depending on the nature of the recommendation.  However, all entries are tracked through our Applicant Tracking System (ATS) which can be found at http://votizen.jobscore.com.
 
 
 Portfolio Review
 ----------------
-Review each portfolio for experience and qualifications.  This should take place within one business day.  After the review, there should be one of three outcomes:
+We then review each portfolio to assess experience and qualifications.  This should take place within one business day.  After the review, there should be one of three outcomes:
 
     1.  Fast track to `Phone Interview`_
     2.  Schedule `Phone Screen`_
@@ -145,7 +145,7 @@ The phone interview should be used as a test to find an actual match.  The inter
 
 Coding Exercise
 ---------------
-The coding exercise is designed to filter out candidates who have a good portfolio but nonetheless are afflicted by CCD (can't code disease.)  This should be a fairly simple Fizz/Buzz or similar example and should be conducted in real-time to determine the person's skill level.  After the coding exercise, a decision should be immediately made according to one of two outcomes:
+The coding exercise is designed to identifycandidates who have a good portfolio but for whatever reason don't have good coding skills  This should be a fairly simple Fizz/Buzz or similar example and should be conducted in real-time to determine the person's skill level.  After the coding exercise, a decision should be immediately made according to one of two outcomes:
 
     1.  If passes, schedule `On Site Individual`_
     2.  `No Match`_
@@ -154,12 +154,19 @@ On Site Individual
 ------------------
 The on site individual is an in-person interview that is meant to test general culture fit.  The person most likely to be the direct report should conduct this on-site.  It could take the form of a lunch, coffee, office sit-down, or other similar meeting.  It should last approximately 1-2 hours.  After the on site, a decision should be immediately made according to one of two outcomes:
 
-    1.  If good fit, schedule `On Site Team`_
+    1.  If good fit, schedule `Reference Check`_
+    2.  `No Match`_
+
+Reference Check
+---------------
+Reference check should be the final assessment of skills.  : 
+
+    1.  If passes, schedule `On Site Team`_
     2.  `No Match`_
 
 On Site Team
 ------------
-The on site team is the final step meant to give all team members an opportunity to review skills, culture, and general fit of the candidate.  The should be half- to all-day affairs for the candidate and sponsor, and should require at least 2-3 hours of each team members' time for lunch and individual interviews.  The preferred format is meeting with the sponsor in the morning, with all relevant team members individually in succession, ending with a lunch/dinner with all team members.  After the on site team interview, all team members should come together to make a determination as follows:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit.  Prior to the team meeting, the focus should be on matching the skills to the role.  The team meeting is for matching the personality to the culture of the company.  The should be half- to all-day affairs for the candidate and sponsor, and should require at least 2-3 hours of each team members' time for lunch and individual interviews.  The preferred format is meeting with the sponsor in the morning, with all relevant team members individually in succession, ending with a lunch/dinner with all team members.  After the on site team interview, all team members should come together to make a determination as follows:
 
     1.  `Hire`_
     2.  `Learn More`_
