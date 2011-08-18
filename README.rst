@@ -16,12 +16,16 @@ Preface::
 Overview
 ========
 
-Our Story
----------
+What We Do
+----------
 
-**Votizen: Connecting Voters**
+**Connecting Voters**
 
-Votizen is about connecting voters: connecting voters to issues they care about, connecting voters to their officials, and connecting voters to other voters.  Votizen powers a listening platform where voters come together to express themselves in an authentic, open way that encourages accountability and solution-oriented discussion.  
+Votizen is about connecting voters: connecting voters to issues they care about, connecting voters to their officials, and connecting voters to other voters.  Votizen powers a listening platform where voters come together to express themselves in an authentic, open, and measurable way that encourages accountability and solution-oriented discussion.  
+
+Our Mission
+-----------
+Our mission is to make voters as powerful between elections as they are on election day.
 
 Our Vision
 ----------
@@ -178,7 +182,12 @@ Most candidates will not be a match.  While each case may be handled individuall
 Applicant Tracking System
 =========================
 
-To apply, please use our applicant tracking system.  Our current system is *JobScore*, and our instance can be found at http://votizen.jobscore.com.  
+To apply, please use our links from our main job page at https://www.votizen.com/jobs.  
+
+Special Note for Recruiters
+===========================
+
+At Votizen we love recruiters!  If you haven't already done so, please see our instructions on how to work with us at http://www.votizen.com/recruiters.  
 
 
 Questions/Contact Information
