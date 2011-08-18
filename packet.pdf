@@ -1,0 +1,2429 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 4 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F3': class PDFType1Font 
+4 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page1': class PDFPage 
+5 0 obj
+% Page dictionary
+<< /Contents 66 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Contents 67 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 68 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 218.4236
+ 0 ]
+ /Rect [ 163.4929
+ 399.1736
+ 235.1929
+ 411.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 356.4236
+ 0 ]
+ /Rect [ 150.1629
+ 381.1736
+ 213.5329
+ 393.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 105.6929
+ 363.1736
+ 532.5827
+ 375.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 218.4236
+ 0 ]
+ /Rect [ 150.1629
+ 243.1736
+ 221.8629
+ 255.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 105.6929
+ 225.1736
+ 532.5827
+ 237.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 206.8629
+ 105.1736
+ 285.2329
+ 117.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+14 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 105.6929
+ 87.17362
+ 532.5827
+ 99.17362 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page4': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Annots [ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 14 0 R ]
+ /Contents 69 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+16 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 632.4236
+ 0 ]
+ /Rect [ 195.1929
+ 657.1736
+ 272.4429
+ 669.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+17 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 105.6929
+ 639.1736
+ 532.5827
+ 651.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+18 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 542.4236
+ 0 ]
+ /Rect [ 194.0729
+ 567.1736
+ 255.7629
+ 579.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER11': class LinkAnnotation 
+19 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 105.6929
+ 549.1736
+ 532.5827
+ 561.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class LinkAnnotation 
+20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 344.4236
+ 0 ]
+ /Rect [ 105.6929
+ 405.1736
+ 532.5827
+ 417.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class LinkAnnotation 
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 284.4236
+ 0 ]
+ /Rect [ 105.6929
+ 387.1736
+ 532.5827
+ 399.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class LinkAnnotation 
+22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 188.4236
+ 0 ]
+ /Rect [ 105.6929
+ 369.1736
+ 532.5827
+ 381.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class LinkAnnotation 
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 758.4236
+ 0 ]
+ /Rect [ 105.6929
+ 351.1736
+ 532.5827
+ 363.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER16': class LinkAnnotation 
+24 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 284.4236
+ 0 ]
+ /Rect [ 480.4664
+ 222.1736
+ 531.5964
+ 234.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER17': class LinkAnnotation 
+25 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 188.4236
+ 0 ]
+ /Rect [ 243.6416
+ 138.1736
+ 268.4528
+ 150.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page5': class PDFPage 
+26 0 obj
+% Page dictionary
+<< /Annots [ 16 0 R
+ 17 0 R
+ 18 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R ]
+ /Contents 70 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://www.votizen.com/jobs) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 314.4729
+ 645.1736
+ 443.4029
+ 657.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.votizen.com/recruiters) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 107.7129
+ 582.1736
+ 254.9729
+ 594.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER20': class PDFDictionary 
+29 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:marty@votizen.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 444.0827
+ 531.1736
+ 532.4473
+ 543.1736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page6': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Annots [ 27 0 R
+ 28 0 R
+ 29 0 R ]
+ /Contents 71 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 65 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R31': class PDFCatalog 
+31 0 obj
+% Document Root
+<< /Outlines 33 0 R
+ /PageLabels 72 0 R
+ /PageMode /UseNone
+ /Pages 65 0 R
+ /Type /Catalog >>
+endobj
+% 'R32': class PDFInfo 
+32 0 obj
+<< /Author ()
+ /CreationDate (D:20110818115454+08'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (Careers at Votizen) >>
+endobj
+% 'R33': class PDFOutlines 
+33 0 obj
+<< /Count 34
+ /First 34 0 R
+ /Last 64 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+34 0 obj
+<< /Count 4
+ /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 640.2236
+ 0 ]
+ /First 35 0 R
+ /Last 38 0 R
+ /Next 39 0 R
+ /Parent 33 0 R
+ /Title (Overview) >>
+endobj
+% 'Outline.32.0': class OutlineEntryObject 
+35 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 607.2236
+ 0 ]
+ /Next 36 0 R
+ /Parent 34 0 R
+ /Title (What We Do) >>
+endobj
+% 'Outline.32.1': class OutlineEntryObject 
+36 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 505.2236
+ 0 ]
+ /Next 37 0 R
+ /Parent 34 0 R
+ /Prev 35 0 R
+ /Title (Our Mission) >>
+endobj
+% 'Outline.32.2': class OutlineEntryObject 
+37 0 obj
+<< /Dest [ 5 0 R
+ /XYZ
+ 62.69291
+ 457.2236
+ 0 ]
+ /Next 38 0 R
+ /Parent 34 0 R
+ /Prev 36 0 R
+ /Title (Our Vision) >>
+endobj
+% 'Outline.32.3': class OutlineEntryObject 
+38 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 755.4236
+ 0 ]
+ /Parent 34 0 R
+ /Prev 37 0 R
+ /Title (Business Model) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+39 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 563.4236
+ 0 ]
+ /Next 40 0 R
+ /Parent 33 0 R
+ /Prev 34 0 R
+ /Title (What we're looking for) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+40 0 obj
+<< /Count 10
+ /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 380.4236
+ 0 ]
+ /First 41 0 R
+ /Last 50 0 R
+ /Next 51 0 R
+ /Parent 33 0 R
+ /Prev 39 0 R
+ /Title (What we offer) >>
+endobj
+% 'Outline.33.0': class OutlineEntryObject 
+41 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 347.4236
+ 0 ]
+ /Next 42 0 R
+ /Parent 40 0 R
+ /Title (Change the world potential) >>
+endobj
+% 'Outline.33.1': class OutlineEntryObject 
+42 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 62.69291
+ 239.4236
+ 0 ]
+ /Next 43 0 R
+ /Parent 40 0 R
+ /Prev 41 0 R
+ /Title (Hard technical challenges) >>
+endobj
+% 'Outline.33.2': class OutlineEntryObject 
+43 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 755.4236
+ 0 ]
+ /Next 44 0 R
+ /Parent 40 0 R
+ /Prev 42 0 R
+ /Title (Real people, real usage, real important) >>
+endobj
+% 'Outline.33.3': class OutlineEntryObject 
+44 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 671.4236
+ 0 ]
+ /Next 45 0 R
+ /Parent 40 0 R
+ /Prev 43 0 R
+ /Title (Top-notch team) >>
+endobj
+% 'Outline.33.4': class OutlineEntryObject 
+45 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 575.4236
+ 0 ]
+ /Next 46 0 R
+ /Parent 40 0 R
+ /Prev 44 0 R
+ /Title (Agile process) >>
+endobj
+% 'Outline.33.5': class OutlineEntryObject 
+46 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 479.4236
+ 0 ]
+ /Next 47 0 R
+ /Parent 40 0 R
+ /Prev 45 0 R
+ /Title (Great investors) >>
+endobj
+% 'Outline.33.6': class OutlineEntryObject 
+47 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 383.4236
+ 0 ]
+ /Next 48 0 R
+ /Parent 40 0 R
+ /Prev 46 0 R
+ /Title (Fantastic culture) >>
+endobj
+% 'Outline.33.7': class OutlineEntryObject 
+48 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 299.4236
+ 0 ]
+ /Next 49 0 R
+ /Parent 40 0 R
+ /Prev 47 0 R
+ /Title (Benefits, Perks) >>
+endobj
+% 'Outline.33.8': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 62.69291
+ 203.4236
+ 0 ]
+ /Next 50 0 R
+ /Parent 40 0 R
+ /Prev 48 0 R
+ /Title (Compensation) >>
+endobj
+% 'Outline.33.9': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 755.4236
+ 0 ]
+ /Parent 40 0 R
+ /Prev 49 0 R
+ /Title (Tools) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+51 0 obj
+<< /Count 10
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 524.4236
+ 0 ]
+ /First 52 0 R
+ /Last 61 0 R
+ /Next 62 0 R
+ /Parent 33 0 R
+ /Prev 40 0 R
+ /Title (Process) >>
+endobj
+% 'Outline.34.0': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 473.4236
+ 0 ]
+ /Next 53 0 R
+ /Parent 51 0 R
+ /Title (Portfolio Review) >>
+endobj
+% 'Outline.34.1': class OutlineEntryObject 
+53 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 353.4236
+ 0 ]
+ /Next 54 0 R
+ /Parent 51 0 R
+ /Prev 52 0 R
+ /Title (Phone Screen) >>
+endobj
+% 'Outline.34.2': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 215.4236
+ 0 ]
+ /Next 55 0 R
+ /Parent 51 0 R
+ /Prev 53 0 R
+ /Title (Phone Interview) >>
+endobj
+% 'Outline.34.3': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 755.4236
+ 0 ]
+ /Next 56 0 R
+ /Parent 51 0 R
+ /Prev 54 0 R
+ /Title (On Site Individual) >>
+endobj
+% 'Outline.34.4': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 629.4236
+ 0 ]
+ /Next 57 0 R
+ /Parent 51 0 R
+ /Prev 55 0 R
+ /Title (Reference Check) >>
+endobj
+% 'Outline.34.5': class OutlineEntryObject 
+57 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 539.4236
+ 0 ]
+ /Next 58 0 R
+ /Parent 51 0 R
+ /Prev 56 0 R
+ /Title (On Site Team) >>
+endobj
+% 'Outline.34.6': class OutlineEntryObject 
+58 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 341.4236
+ 0 ]
+ /Next 59 0 R
+ /Parent 51 0 R
+ /Prev 57 0 R
+ /Title (Hire) >>
+endobj
+% 'Outline.34.7': class OutlineEntryObject 
+59 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 281.4236
+ 0 ]
+ /Next 60 0 R
+ /Parent 51 0 R
+ /Prev 58 0 R
+ /Title (Learn More) >>
+endobj
+% 'Outline.34.8': class OutlineEntryObject 
+60 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 62.69291
+ 185.4236
+ 0 ]
+ /Next 61 0 R
+ /Parent 51 0 R
+ /Prev 59 0 R
+ /Title (Hold) >>
+endobj
+% 'Outline.34.9': class OutlineEntryObject 
+61 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 755.4236
+ 0 ]
+ /Parent 51 0 R
+ /Prev 60 0 R
+ /Title (No Match) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+62 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 683.4236
+ 0 ]
+ /Next 63 0 R
+ /Parent 33 0 R
+ /Prev 51 0 R
+ /Title (Applicant Tracking System) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+63 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 632.4236
+ 0 ]
+ /Next 64 0 R
+ /Parent 33 0 R
+ /Prev 62 0 R
+ /Title (Special Note for Recruiters) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+64 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 62.69291
+ 569.4236
+ 0 ]
+ /Parent 33 0 R
+ /Prev 63 0 R
+ /Title (Questions/Contact Information) >>
+endobj
+% 'R65': class PDFPages 
+65 0 obj
+% page tree
+<< /Count 6
+ /Kids [ 5 0 R
+ 6 0 R
+ 7 0 R
+ 15 0 R
+ 26 0 R
+ 30 0 R ]
+ /Type /Pages >>
+endobj
+% 'R66': class PDFStream 
+66 0 obj
+% page stream
+<< /Length 4940 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 731.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 147.6949 0 Td (Careers at Votizen) Tj T* -147.6949 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 709.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Preface:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 652.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F3 10 Tf 12 TL (This packet is designed to provide 1\) an overview of Votizen, 2\) what we're) Tj T* (looking for in team members, 3\) what we offer in a career, and 4\) the) Tj T* (process we use to find good matches to join our team.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 619.2236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Overview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 589.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (What We Do) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 571.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Connecting Voters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 517.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .161984 Tw (Votizen is about connecting voters: connecting voters to issues they care about, connecting voters to their) Tj T* 0 Tw 1.32784 Tw (officials, and connecting voters to other voters. Votizen powers a listening platform where voters come) Tj T* 0 Tw 5.250814 Tw (together to express themselves in an authentic, open, and measurable way that encourages) Tj T* 0 Tw (accountability and solution-oriented discussion.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 487.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Our Mission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 469.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Our mission is to make voters as powerful between elections as they are on election day.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 439.2236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Our Vision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 373.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.253615 Tw (Since the Nixon/Kennedy debate, television has dominated U.S. politics. Today, campaigns spend) Tj T* 0 Tw 1.090651 Tw (hundreds of millions of dollars on television commercials to get elected, often through ads which attack) Tj T* 0 Tw .609983 Tw (the opposition rather than promote positions. Eventually, the campaigns end and the winner takes office.) Tj T* 0 Tw .61284 Tw (Still, the rancor persists, paralyzing our leadership and poisoning public discussion until the next election) Tj T* 0 Tw (-- when it only gets worse. Most agree that this approach is fundamentally broken.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 271.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.609985 Tw (Yet there are signs this is changing. Internet spending has more than quadrupled in the past election) Tj T* 0 Tw .363145 Tw (cycle. Barack Obama spent less than half his total budget on television -- the first time in the modern age) Tj T* 0 Tw .755984 Tw (that a presidential campaign dipped below the 50% threshold. Perhaps the most striking example of this) Tj T* 0 Tw .701751 Tw (shift was a 2010 statewide California race that had a prominent insider raise more than a million dollars,) Tj T* 0 Tw .534985 Tw (hire the best consultants, and run a textbook campaign -- losing to a previously unknown challenger who) Tj T* 0 Tw .174692 Tw (only spent $3000 to cover the filing fee but made effective use of Facebook, Twitter, and YouTube. These) Tj T* 0 Tw 1.678935 Tw (are all examples of a clear trend: we are moving past the one-way campaign and into the era of the) Tj T* 0 Tw (connected election.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 205.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.058221 Tw (Votizen sees this trend, and is focused on connecting voters. We believe that in a connected world the) Tj T* 0 Tw 1.409269 Tw (wisdom of crowds prevails over narrow extremism. We believe that in a connected election 30-second) Tj T* 0 Tw 1.008555 Tw (attack ads are powerless. We believe that connected voters represent the future of democracy. Votizen) Tj T* 0 Tw .110574 Tw (wants to foster, create, and empower those connections, giving real people the tools to have a real impact) Tj T* 0 Tw (on the challenges facing our communities, our country, and our world.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 175.2236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.450574 Tw (This is happening now. The technology is maturing, the people are ready, and we intend to make the) Tj T* 0 Tw (Votizen vision a reality.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 775.5969 cm
+q
+BT 1 0 0 1 0 1.6 Tm 207.8209 0 Td 9.6 TL /F1 8 Tf 0 0 0 rg (Careers at Votizen) Tj T* -207.8209 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 238.1649 0 Td (1) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R67': class PDFStream 
+67 0 obj
+% page stream
+<< /Length 5767 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Business Model) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 671.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .05784 Tw (Our business model is similar to LinkedIn: as LinkedIn charges to facilitate connections between recruiters) Tj T* 0 Tw .04811 Tw (and job seekers, so do we charge to facilitate connections between campaigns and voters. For instance, a) Tj T* 0 Tw 1.124104 Tw (recent campaign to help support job creators in the US used the Votizen platform to connect to voters,) Tj T* 0 Tw .254985 Tw (gather support, and be heard in Washington. This attracted the attention of the right officials, getting them) Tj T* 0 Tw (to listen and eventually resulting in new legislation introduced into the US Senate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 593.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 1.831984 Tw (We are a network-effect business; meaning, the more voters that participate in the system, the more) Tj T* 0 Tw .660751 Tw (valuable the overall system becomes. Network effect businesses are notoriously difficult to establish, but) Tj T* 0 Tw 3.585814 Tw (once established they are immensely valuable \(Facebook, EBay, LinkedIn are other examples of) Tj T* 0 Tw .112927 Tw (network-effect businesses.\) Politics is a $10B a year industry that has grown 25% per year for fifty straight) Tj T* 0 Tw 1.16061 Tw (years. We think there is a huge business opportunity here that will help ordinary people become better) Tj T* 0 Tw (and more engaged citizens.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 575.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bottom Line: Go Big or Go Home. There is no middle ground.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 542.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What we're looking for) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 488.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .423318 Tw (We are looking for backend engineers. We want persons who have worked on low-level languages, have) Tj T* 0 Tw 3.23284 Tw (architected systems, or otherwise have built things from scratch that scaled. If you think elegant,) Tj T* 0 Tw .702927 Tw (well-documented code is as beautiful as anything you'd find in a museum then you're the type of person) Tj T* 0 Tw (we want.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 422.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .43311 Tw (We are not looking for accidental hackers. We want people who have written their own framework, rather) Tj T* 0 Tw .52332 Tw (than used one to create a website. We don't specifically require a CS degree, but we generally expect to) Tj T* 0 Tw .109535 Tw (see one in a backend engineer. A great candidate will be able to point to a body of work used by others or) Tj T* 0 Tw .87832 Tw (accepted pull requests on Github \(ie, not just lots of forks.\) Inflated titles like CTO are not impressive to) Tj T* 0 Tw (us; a well-followed blog or project is.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 392.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .650988 Tw (Above all, we want A players. Our standards are very, very high but we are at the very early stages and) Tj T* 0 Tw (want high-quality talent that will attract other high-quality talent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 359.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What we offer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 329.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Change the world potential) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 251.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62 Tm /F1 10 Tf 12 TL 2.63936 Tw (First and foremost, we're working on something that truly has the potential to change the world in) Tj T* 0 Tw .57561 Tw (profound ways. We're helping repair Democracy, and we think that's a lot more important than building a) Tj T* 0 Tw .89284 Tw (revolutionary way to sell grilled cheese. Social media is maturing beyond a mere entertainment medium) Tj T* 0 Tw 1.109985 Tw (and is helping to depose dictators and increase freedom across the globe. We're trying to harness that) Tj T* 0 Tw 1.407045 Tw (power to improve how government serves its citizens and fix a broken system. In short, we're not just) Tj T* 0 Tw (another Groupon clone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 221.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Hard technical challenges) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.299982 Tw (We have huge challenges in machine learning, classification, and general scale. Our database already) Tj T* 0 Tw .159988 Tw (has every voter in the United States plus their voting history -- in some cases going back thirty years. This) Tj T* 0 Tw 2.309988 Tw (is a billion rows of data and we've barely even started. We need to figure out how to process this) Tj T* 0 Tw .816654 Tw (information in way that is meaningful to each and every voter starting in the US \(200 million voters\) and) Tj T* 0 Tw 2.400697 Tw (eventually abroad \(Democracy is a growth business.\) Moreover, we have a new approach to social) Tj T* 0 Tw 1.729213 Tw (networking that uses dynamic linking, meaning: forming and re-forming the interest graph as opinions) Tj T* 0 Tw .811235 Tw (change, accommodating new nodes and edges in realtime along the way. No one has done this before,) Tj T* 0 Tw (and it represents the future of social networks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 775.5969 cm
+q
+BT 1 0 0 1 0 1.6 Tm 207.8209 0 Td 9.6 TL /F1 8 Tf 0 0 0 rg (Careers at Votizen) Tj T* -207.8209 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 238.1649 0 Td (2) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R68': class PDFStream 
+68 0 obj
+% page stream
+<< /Length 5522 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Real people, real usage, real important) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .919988 Tw (As our success grows, more and more real people are going to rely on our tools to help form decisions) Tj T* 0 Tw .476098 Tw (about the future of our country. This means that millions of voters will use the tools our engineers create,) Tj T* 0 Tw 1.269461 Tw (and will use them every day. It will be a badge of honor that Votizen engineers work on something so) Tj T* 0 Tw (important and fundamental to the lives of everyday citizens.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 653.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Top-notch team) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 587.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .062209 Tw (Our team is very strong: David Binetti, our CEO, has ten years' industry experience and was the creator of) Tj T* 0 Tw 1.048555 Tw (one of the first examples of government e-transparency: USA.gov. Jason Putorti, our designer, was the) Tj T* 0 Tw .27528 Tw (lead designer for Mint.com and is one of the most highly sought-after designers in the valley. Matt Snider,) Tj T* 0 Tw .476098 Tw (our engineer, is a front-end guru and has written a book on Javascript \(literally\). We want to continue the) Tj T* 0 Tw (tradition of only hiring the very best in a given person's field of expertise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Agile process) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 491.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 3.013059 Tw (We ascribe to agile development processes. We are big believers in test-driven development. We) Tj T* 0 Tw .790697 Tw (thoroughly document our code. We engage in continuous deployment. We don't have a QA department;) Tj T* 0 Tw 2.536235 Tw (when something escapes our test coverage and breaks we fix it immediately. For us, it's all about) Tj T* 0 Tw 2.199982 Tw (reducing the iteration cycles. Our processes favor quick identification of problems and fast recovery.) Tj T* 0 Tw (Speed is the best prevention.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 461.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Great investors) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 395.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.712209 Tw (Our lead investor is Peter Thiel who has one of the best track records in picking winners. Our board) Tj T* 0 Tw .88436 Tw (member is Sean Parker. We have some of the most prescient investors in the business, including Keith) Tj T* 0 Tw 3.115697 Tw (Rabois, Mark Goines, Ron Conway, Chris Dixon, and David Cowan. These investors see a huge) Tj T* 0 Tw .221235 Tw (opportunity in a space ripe for disruption, and anyone thinking about participating in this space knows that) Tj T* 0 Tw (the group we've assembled is second to none.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 365.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Fantastic culture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 311.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.091984 Tw (We have a great culture that rewards risk-taking and creativity. We create features by taking the) Tj T* 0 Tw .649987 Tw (perspective of the user: "A member should be able to do FOO in order to accomplish BAR as measured) Tj T* 0 Tw .527882 Tw (by BAZ." After that, implementation is up to the engineer. We are very flexible in our work hours, as long) Tj T* 0 Tw (as the job gets done. And we play hard as well -- the office is very competitive, particularly in Starcraft.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Benefits, Perks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 215.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .993516 Tw (Our benefits and perks are quite light compared to other large companies. We do have have full health) Tj T* 0 Tw .22436 Tw (coverage for families, offer commuter checks, and generally try to be as flexible as possible in responding) Tj T* 0 Tw .129398 Tw (to team members' needs. But you can forget things like 401Ks, massage therapists and stuff like that. Our) Tj T* 0 Tw 1.062209 Tw (goal is to make our equity so valuable that all those things become rounding errors in our personal net) Tj T* 0 Tw (worth.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 185.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Compensation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .177045 Tw (Being a Peter Thiel funded company, we place a premium on equity participation and not cash salary. We) Tj T* 0 Tw 1.231163 Tw (encapsulate this as, "Salary to live on; Equity to retire on." Basically, we can be competitive with other) Tj T* 0 Tw 2.039983 Tw (startups, but not with Google, Facebook or other more established tech companies. Then again, our) Tj T* 0 Tw 1.844104 Tw (appreciation potential is much higher. Our goal is to make the equity in the company as valuable as) Tj T* 0 Tw (possible and we want to ensure that everyone is aligned accordingly.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 775.5969 cm
+q
+BT 1 0 0 1 0 1.6 Tm 207.8209 0 Td 9.6 TL /F1 8 Tf 0 0 0 rg (Careers at Votizen) Tj T* -207.8209 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 238.1649 0 Td (3) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R69': class PDFStream 
+69 0 obj
+% page stream
+<< /Length 9149 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 707.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .832988 Tw (We don't have religion on tools. Our basic principle is to use the simplest tool that will get the job done.) Tj T* 0 Tw (While things may change, we currently use:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 701.4236 cm
+Q
+q
+1 0 0 1 62.69291 701.4236 cm
+Q
+q
+1 0 0 1 62.69291 632.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Amazon Web Services) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (EC2 for front-end servers) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (S3 for serving content) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (RDS for backend MySQL databases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 626.4236 cm
+Q
+q
+1 0 0 1 62.69291 593.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 18 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Redis) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 8 Tm  T* ET
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Use for our newsfeed and other streams) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 587.4236 cm
+Q
+q
+1 0 0 1 62.69291 536.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (We use Django for our front-end CRUD) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (twisted \(for our asynch API\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 536.4236 cm
+Q
+q
+1 0 0 1 62.69291 503.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Process) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 485.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Following is the hiring process to which we aspire:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 455.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Portfolio Review) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.074651 Tw (Once submitted, we review a candidate's resume to assess experience and qualifications. We try to do) Tj T* 0 Tw (this within one business day. After the review, there should be one of three outcomes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 419.4236 cm
+Q
+q
+1 0 0 1 62.69291 365.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Fast track to ) Tj 0 0 .501961 rg (Phone Interview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Schedule ) Tj 0 0 .501961 rg (Phone Screen) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No Match) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 365.4236 cm
+Q
+q
+1 0 0 1 62.69291 335.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Phone Screen) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 269.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.899988 Tw (The phone screen should be used to fill in gaps in any resume items. It is not designed to test any) Tj T* 0 Tw 2.875868 Tw (candidate's specific knowledge or experience as much as it is to find a good match on paper as) Tj T* 0 Tw .043516 Tw (presented. The screen should last roughly ten minutes and the output of the screen should be captured as) Tj T* 0 Tw 1.941751 Tw (notes in the ATS. After the screen, a decision should be immediately made according to one of two) Tj T* 0 Tw (outcomes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 263.4236 cm
+Q
+q
+1 0 0 1 62.69291 227.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Schedule ) Tj 0 0 .501961 rg (Phone Interview) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No Match) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 227.4236 cm
+Q
+q
+1 0 0 1 62.69291 197.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Phone Interview) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 131.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.369984 Tw (The phone interview is designed to explore the candidate's experience and skills, drilling down on any) Tj T* 0 Tw 2.674983 Tw (aspect of the resume as necessary to ensure appropriateness and accuracy and running a coding) Tj T* 0 Tw 3.995366 Tw (exercise. The interview should last approximately 30-60 minutes and break down as 10 minute) Tj T* 0 Tw .87152 Tw (introduction of Votizen, 10-40 minutes of drill-down/coding, and 10 minutes for any candidate questions.) Tj T* 0 Tw (After the interview, a decision should be immediately made according to one of three outcomes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.4236 cm
+Q
+q
+1 0 0 1 62.69291 89.42362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If above bar, schedule ) Tj 0 0 .501961 rg (On Site Individual) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No Match) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 89.42362 cm
+Q
+q
+1 0 0 1 56.69291 775.5969 cm
+q
+BT 1 0 0 1 0 1.6 Tm 207.8209 0 Td 9.6 TL /F1 8 Tf 0 0 0 rg (Careers at Votizen) Tj T* -207.8209 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 238.1649 0 Td (4) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R70': class PDFStream 
+70 0 obj
+% page stream
+<< /Length 7503 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (On Site Individual) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 683.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .137209 Tw (The on site individual is an in-person interview that is meant as a deeper assessment of skills and general) Tj T* 0 Tw .304724 Tw (culture fit. The person most likely to be the direct report should conduct this on-site. It could take the form) Tj T* 0 Tw .98811 Tw (of a lunch, coffee, office sit-down, or other similar meeting. It should last approximately 1-2 hours. After) Tj T* 0 Tw (the on-site, a decision should be immediately made according to one of two outcomes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 677.4236 cm
+Q
+q
+1 0 0 1 62.69291 641.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If good fit, schedule ) Tj 0 0 .501961 rg (Reference Check) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No Match) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 641.4236 cm
+Q
+q
+1 0 0 1 62.69291 611.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Reference Check) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 593.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Reference check should be the final assessment of skills:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 587.4236 cm
+Q
+q
+1 0 0 1 62.69291 551.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (If passes, schedule ) Tj 0 0 .501961 rg (On Site Team) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No Match) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 551.4236 cm
+Q
+q
+1 0 0 1 62.69291 521.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (On Site Team) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 431.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.24104 Tw (The on site team is the final step meant to give all team members an opportunity to assess culture fit.) Tj T* 0 Tw .455988 Tw (Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for) Tj T* 0 Tw 2.007045 Tw (matching the personality to the culture of the company. The should be half- to all-day affairs for the) Tj T* 0 Tw .652339 Tw (candidate and sponsor, and should require at least 2-3 hours of each team members' time for lunch and) Tj T* 0 Tw 1.277984 Tw (individual interviews. The preferred format is meeting with the sponsor in the morning, with all relevant) Tj T* 0 Tw .462651 Tw (team members individually in succession, ending with a lunch/dinner with all team members. After the on) Tj T* 0 Tw (site team interview, all team members should come together to make a determination as follows:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 425.4236 cm
+Q
+q
+1 0 0 1 62.69291 353.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 66 cm
+Q
+q
+1 0 0 1 20 54 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hire) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Learn More) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Hold) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (No Match) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 353.4236 cm
+Q
+q
+1 0 0 1 62.69291 323.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Hire) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 293.4236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.51528 Tw 12 TL /F1 10 Tf 0 0 0 rg (Once the decision to hire has been made, the hiring manager must put together and present an offer) Tj T* 0 Tw (package within one business day. ) Tj /F2 10 Tf (No exceptions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 263.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Learn More) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 197.4236 cm
+q
+BT 1 0 0 1 0 50 Tm 1.254692 Tw 12 TL /F1 10 Tf 0 0 0 rg (This should not be employed frequently; the onus is on the hiring manager to ensure that this process) Tj T* 0 Tw .15436 Tw (reveals all that is necessary to render a decision. However, if there are occasions where getting additional) Tj T* 0 Tw .986235 Tw (information will help render a decision that should happen. No candidate should stay in the ) Tj 0 0 .501961 rg (Learn More) Tj T* 0 Tw 2.142765 Tw 0 0 0 rg (category for more than a week; ideally, we should be able to get the information we need with two) Tj T* 0 Tw (business days.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 167.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Hold) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 101.4236 cm
+q
+BT 1 0 0 1 0 50 Tm .38332 Tw 12 TL /F1 10 Tf 0 0 0 rg (Periodically we might find good candidates that would be a good match aside from timing \(on one side or) Tj T* 0 Tw 1.471235 Tw (another.\) These should be placed in a ) Tj 0 0 .501961 rg (Hold ) Tj 0 0 0 rg (status. Ideally, when candidates are placed on hold there) Tj T* 0 Tw .012339 Tw (should be a defined trigger to bring them out of that state. Examples include: vesting fully, finishing school,) Tj T* 0 Tw .567485 Tw (campaign ending, etc. It should not be a catch-all category: the supposition should be that all candidates) Tj T* 0 Tw (are either hired or declined.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 775.5969 cm
+q
+BT 1 0 0 1 0 1.6 Tm 207.8209 0 Td 9.6 TL /F1 8 Tf 0 0 0 rg (Careers at Votizen) Tj T* -207.8209 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 238.1649 0 Td (5) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R71': class PDFStream 
+71 0 obj
+% page stream
+<< /Length 2009 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 737.4236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (No Match) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 695.4236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.196235 Tw (Most candidates will not be a match. While each case may be handled individually, all candidates who) Tj T* 0 Tw 1.747633 Tw (have on site visits should be informed of no-match via phone. Others may be informed via email. All) Tj T* 0 Tw (candidates should be treated respectfully.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Applicant Tracking System) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 644.4236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To apply, please use our links from our main job page at ) Tj 0 0 .501961 rg (https://www.votizen.com/jobs) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 611.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Special Note for Recruiters) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 581.4236 cm
+q
+BT 1 0 0 1 0 14 Tm .554987 Tw 12 TL /F1 10 Tf 0 0 0 rg (At Votizen we love recruiters! If you haven't already done so, please see our instructions on how to work) Tj T* 0 Tw (with us at ) Tj 0 0 .501961 rg (http://www.votizen.com/recruiters) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Questions/Contact Information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 518.4236 cm
+q
+BT 1 0 0 1 0 14 Tm .135366 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you have any additional information or questions please contact Marty Schneider at ) Tj 0 0 .501961 rg (marty@votizen.com) Tj T* 0 Tw 0 0 0 rg (or 415.690.8683.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 775.5969 cm
+q
+BT 1 0 0 1 0 1.6 Tm 207.8209 0 Td 9.6 TL /F1 8 Tf 0 0 0 rg (Careers at Votizen) Tj T* -207.8209 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 238.1649 0 Td (6) Tj T* -238.1649 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R72': class PDFPageLabels 
+72 0 obj
+% Document Root
+<< /Nums [ 0
+ 73 0 R
+ 1
+ 74 0 R
+ 2
+ 75 0 R
+ 3
+ 76 0 R
+ 4
+ 77 0 R
+ 5
+ 78 0 R ] >>
+endobj
+% 'R73': class PDFPageLabel 
+73 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R74': class PDFPageLabel 
+74 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R75': class PDFPageLabel 
+75 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R76': class PDFPageLabel 
+76 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R77': class PDFPageLabel 
+77 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R78': class PDFPageLabel 
+78 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+xref
+0 79
+0000000000 65535 f
+0000000113 00000 n
+0000000233 00000 n
+0000000398 00000 n
+0000000573 00000 n
+0000000732 00000 n
+0000001011 00000 n
+0000001290 00000 n
+0000001584 00000 n
+0000001825 00000 n
+0000002066 00000 n
+0000002308 00000 n
+0000002550 00000 n
+0000002792 00000 n
+0000003034 00000 n
+0000003261 00000 n
+0000003629 00000 n
+0000003871 00000 n
+0000004114 00000 n
+0000004357 00000 n
+0000004600 00000 n
+0000004843 00000 n
+0000005086 00000 n
+0000005329 00000 n
+0000005572 00000 n
+0000005815 00000 n
+0000006042 00000 n
+0000006439 00000 n
+0000006687 00000 n
+0000006940 00000 n
+0000007169 00000 n
+0000007489 00000 n
+0000007648 00000 n
+0000007914 00000 n
+0000008040 00000 n
+0000008253 00000 n
+0000008426 00000 n
+0000008615 00000 n
+0000008803 00000 n
+0000008977 00000 n
+0000009174 00000 n
+0000009408 00000 n
+0000009597 00000 n
+0000009800 00000 n
+0000010017 00000 n
+0000010209 00000 n
+0000010400 00000 n
+0000010593 00000 n
+0000010788 00000 n
+0000010981 00000 n
+0000011171 00000 n
+0000011337 00000 n
+0000011566 00000 n
+0000011746 00000 n
+0000011937 00000 n
+0000012131 00000 n
+0000012328 00000 n
+0000012522 00000 n
+0000012713 00000 n
+0000012896 00000 n
+0000013085 00000 n
+0000013268 00000 n
+0000013437 00000 n
+0000013638 00000 n
+0000013841 00000 n
+0000014015 00000 n
+0000014165 00000 n
+0000019204 00000 n
+0000025070 00000 n
+0000030691 00000 n
+0000039939 00000 n
+0000047541 00000 n
+0000049653 00000 n
+0000049811 00000 n
+0000049888 00000 n
+0000049965 00000 n
+0000050042 00000 n
+0000050119 00000 n
+0000050196 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\244\023j\332\367\2710\251\)\233\3726\265Q\355A) (\244\023j\332\367\2710\251\)\233\3726\265Q\355A)] 
+
+ /Info 32 0 R
+ /Root 31 0 R
+ /Size 79 >>
+startxref
+50243
+%%EOF

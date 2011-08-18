@@ -52,7 +52,7 @@ What we're looking for
 
 We are looking for backend engineers.  We want persons who have worked on low-level languages, have architected systems, or otherwise have built things from scratch that scaled.  If you think elegant, well-documented code is as beautiful as anything you'd find in a museum then you're the type of person we want.
 
-We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We don't specifically require a CS degree, but we are looking for a candidates who think like engineers.  A great candidate will have a strong GitHub/open-source portfolio with lots of quality commits, not just lots of forks.  Inflated titles like CTO are not impressive to us; a well-followed blog or project is.  
+We are not looking for accidental hackers.  We want people who have written their own framework, rather than used one to create a website.  We don't specifically require a CS degree, but we generally expect to see one in a backend engineer.  A great candidate will be able to point to a body of work used by others or accepted pull requests on Github (ie, not just lots of forks.)  Inflated titles like CTO are not impressive to us; a well-followed blog or project is.  
 
 Above all, we want A players.  Our standards are very, very high but we are at the very early stages and want high-quality talent that will attract other high-quality talent.
 
@@ -118,7 +118,7 @@ Following is the hiring process to which we aspire:
 
 Portfolio Review
 ----------------
-Once submitted, we review a candidate's portfolio to assess experience and qualifications.  We try to do this within one business day.  After the review, there should be one of three outcomes:
+Once submitted, we review a candidate's resume to assess experience and qualifications.  We try to do this within one business day.  After the review, there should be one of three outcomes:
 
     1.  Fast track to `Phone Interview`_
     2.  Schedule `Phone Screen`_
@@ -126,14 +126,14 @@ Once submitted, we review a candidate's portfolio to assess experience and quali
 
 Phone Screen
 ------------
-The phone screen should be used to fill in gaps in any portfolio items.  It is not designed to test any candidate's specific knowledge or experience as much as it is to find a good match on paper as presented.  The screen should last roughly ten minutes and the output of the screen should be captured as notes in the ATS.  After the screen, a decision should be immediately made according to one of two outcomes:
+The phone screen should be used to fill in gaps in any resume items.  It is not designed to test any candidate's specific knowledge or experience as much as it is to find a good match on paper as presented.  The screen should last roughly ten minutes and the output of the screen should be captured as notes in the ATS.  After the screen, a decision should be immediately made according to one of two outcomes:
 
     1.  Schedule `Phone Interview`_
     2.  `No Match`_
 
-Phone Interview/Coding Exercise
--------------------------------
-The phone interview is designed to explore the candidate's knowledge and experience, drilling down on any aspect of the portfolio as necessary to ensure appropriateness and accuracy.  It also is where we may run a coding exercise to assess basic coding skills, ideally using a tool such as http://typewith.me or something similar.  The interview should last approximately 30-60 minutes and break down as 10 minute introduction of Votizen, 10-40 minutes of drill-down/coding, and 10 minutes for any candidate questions.  After the interview, a decision should be immediately made according to one of three outcomes:
+Phone Interview
+---------------
+The phone interview is designed to explore the candidate's experience and skills, drilling down on any aspect of the resume as necessary to ensure appropriateness and accuracy and running a coding exercise.  The interview should last approximately 30-60 minutes and break down as 10 minute introduction of Votizen, 10-40 minutes of drill-down/coding, and 10 minutes for any candidate questions.  After the interview, a decision should be immediately made according to one of three outcomes:
 
     1.  If above bar, schedule `On Site Individual`_
     2.  `No Match`_
