@@ -118,58 +118,53 @@ Following is the hiring process to which we aspire:
 
 Portfolio Review
 ----------------
-Once submitted, we review a candidate's resume to assess experience and qualifications.  We try to do this within one business day.  After the review, there should be one of three outcomes:
+Once submitted, we review a candidate's resume to assess experience and qualifications.  We try to do this within one business day.  After the review, there should be one of two outcomes:
 
-    1.  Fast track to `Phone Interview`_
-    2.  Schedule `Phone Screen`_
-    3.  `No Match`_
+    1.  Schedule `Sell & Evaluation Screen`_
+    2.  `No Match`_
 
-Phone Screen
+Sell & Evaluation Screen
+------------------------
+The Sell & Evaluation screen is a 20-30 minute interview where the screener's goal is to sell the Votizen vision, feel out the candidates interest, and read whether or not they would be a good fit. This screener should notify the candidate that the next step is an involved 3-6 hour manditory coding problem. After the screen, a decision should be immediately made according to one of two outcomes:
+
+    1.  Send `Remote Coding Problem`_
+    2.  `No Match`_
+
+Remote Coding Problem
+---------------------
+
+The coding problem is included in this repository as RemoteCodingProblem.rst, and is a task that shows they know or can learn Django, Python, and Apache. The completed project should be checked into a public Github account, which we can pull down and run locally. The problem should take 3-6 hours, depending on the candidates understanding of our technology stack, and the amount of extras they add.
+
+    1.  If above bar, schedule `On Site Pair Programming`_
+    2.  `No Match`_
+
+
+On Site Pair Programming
+------------------------
+The on site pair programming is an in-person interview, where the candidate will be tasked to code a multi-layered problem on a computer while being paired with one of our engineers. The candidate should be asked to bring a laptop with them (and they can use the language of their choice), or we will have to provide one (and they will have to code in Python). The candidate can choose between two carefully crafted problems, included in this repository as OnSitePairProblem.rsr. After the on-site, a decision should be immediately made according to one of two outcomes:
+
+    1.  If good fit, schedule `On Site Team`_
+    2.  `No Match`_
+
+On Site Team
 ------------
-The phone screen should be used to fill in gaps in any resume items.  It is not designed to test any candidate's specific knowledge or experience as much as it is to find a good match on paper as presented.  The screen should last roughly ten minutes and the output of the screen should be captured as notes in the ATS.  After the screen, a decision should be immediately made according to one of two outcomes:
+The on site team is the final step meant to give all team members an opportunity to assess culture fit. Generally, this should immediately follow the "On Site Pair Programming" step and include a lunch or dinner, but if pressed for time, simply a meet-and-greet. Prior to the team meeting, the focus should be on matching the skills to the role. The team meeting is for matching the personality to the culture of the company. After the on site team interview, all team members should come together to make a determination as follows:
 
-    1.  Schedule `Phone Interview`_
-    2.  `No Match`_
-
-Phone Interview
----------------
-The phone interview is designed to explore the candidate's experience and skills, drilling down on any aspect of the resume as necessary to ensure appropriateness and accuracy and running a coding exercise.  The interview should last approximately 30-60 minutes and break down as 10 minute introduction of Votizen, 10-40 minutes of drill-down/coding, and 10 minutes for any candidate questions.  After the interview, a decision should be immediately made according to one of three outcomes:
-
-    1.  If above bar, schedule `On Site Individual`_
-    2.  `No Match`_
-
-
-On Site Individual
-------------------
-The on site individual is an in-person interview that is meant as a deeper assessment of skills and general culture fit.  The person most likely to be the direct report should conduct this on-site.  It could take the form of a lunch, coffee, office sit-down, or other similar meeting.  It should last approximately 1-2 hours.  After the on-site, a decision should be immediately made according to one of two outcomes:
-
-    1.  If good fit, schedule `Reference Check`_
-    2.  `No Match`_
+    1.  `If good fit, Reference Check`_
+    2.  `Hold`_
+    3.  `No Match`_
 
 Reference Check
 ---------------
 Reference check should be the final assessment of skills: 
 
-    1.  If passes, schedule `On Site Team`_
+    1.  `If passes, Hire`_
     2.  `No Match`_
-
-On Site Team
-------------
-The on site team is the final step meant to give all team members an opportunity to assess culture fit.  Prior to the team meeting, the focus should be on matching the skills to the role.  The team meeting is for matching the personality to the culture of the company.  The should be half- to all-day affairs for the candidate and sponsor, and should require at least 2-3 hours of each team members' time for lunch and individual interviews.  The preferred format is meeting with the sponsor in the morning, with all relevant team members individually in succession, ending with a lunch/dinner with all team members.  After the on site team interview, all team members should come together to make a determination as follows:
-
-    1.  `Hire`_
-    2.  `Learn More`_
-    3.  `Hold`_
-    4.  `No Match`_
 
 
 Hire
 ----
 Once the decision to hire has been made, the hiring manager must put together and present an offer package within one business day.  **No exceptions**
-
-Learn More
-----------
-This should not be employed frequently; the onus is on the hiring manager to ensure that this process reveals all that is necessary to render a decision.  However, if there are occasions where getting additional information will help render a decision that should happen.  No candidate should stay in the `Learn More`_ category for more than a week; ideally, we should be able to get the information we need with two business days.
 
 Hold
 ----
