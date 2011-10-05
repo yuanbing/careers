@@ -22,7 +22,7 @@ Your task, should you choose to accept, is to build a simple blogging site using
 Extra credit
 ------------
 
-Completing any of the following, in addition to the tasks above, will not only make your blog cooler, but also impress us::
+Completing any of the following, in addition to the tasks above, will not only make your blog cooler, but also impress us:
 
 - run your software on a public webserver
 - pagination on the index page
