@@ -56,6 +56,9 @@ We are not looking for accidental hackers.  We want people who have written thei
 
 Above all, we want A players.  Our standards are very, very high but we are at the very early stages and want high-quality talent that will attract other high-quality talent.
 
+We are a Python/Django shop.  We trust the right engineer will not have a problem switching to these but without knowledge of either the hiring process will be very difficult.
+
+
 What we offer
 =============
 
@@ -97,7 +100,7 @@ Being a Peter Thiel funded company, we place a premium on equity participation a
 
 Tools
 -----
-We don't have religion on tools.  Our basic principle is to use the simplest tool that will get the job done.  While things may change, we currently use:
+We don't have religion on tools.  Our basic principle is to use the simplest tool that will get the job done.  While things may change, you should have a good understanding of the following:
 
 - Amazon Web Services
     - EC2 for front-end servers
@@ -118,7 +121,7 @@ Following is the hiring process to which we aspire:
 
 Portfolio Review
 ----------------
-Once submitted, we review a candidate's resume to assess experience and qualifications.  We try to do this within one business day.  After the review, there should be one of two outcomes:
+Once submitted, we review a candidate's resume to assess experience and qualifications.  After the review, there should be one of two outcomes:
 
     1.  Schedule `Sell & Evaluation Screen`_
     2.  `No Match`_
